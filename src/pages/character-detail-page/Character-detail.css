@@ -1,0 +1,28 @@
+.container2 {
+    text-align: center;
+    background-image: url();
+}
+
+.name2 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000px;
+}
+
+.datos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid black;
+    width: 400px;
+    margin-left: 40%;
+}
+
+.button {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background-image: url("https://i.pinimg.com/originals/bb/87/d5/bb87d58722646ba1b2902c3c2924aec2.png");
+    background-position: center;
+    background-size: 200px;
+}
